@@ -4,6 +4,6 @@ Hello, my name is Jake, I'm a computer science student from Britain with a deep 
 # My skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,lua,cs,discord,express,firebase,nodejs,py,sqlite,unreal,vscode,vite,unity,react,blender,ai,ps&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cs,discord,ps,sqlite,unreal,ai,py,tailwind,lua,firebase,vscode,vite,express,react,blender,nodejs,unity&perline=10" />
   </a>
 </p>
